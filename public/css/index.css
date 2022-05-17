@@ -1,0 +1,18 @@
+#navname{
+
+    color: rgb(25, 0, 248);
+    font-family: 'Poppins', sans-serif;
+}
+#welcome{
+
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+#welcomerow{
+
+    height: 500px;
+    background-image: url(/img/971.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
